@@ -1,0 +1,82 @@
+<!-- res/values/themes.xml -->
+<resources>
+
+    <!-- THEME 1: SKY -->
+    <style name="Theme.SewaMobil.Sky" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/sky_primary</item>
+        <item name="colorOnPrimary">@color/sky_on_primary</item>
+        <item name="colorPrimaryContainer">@color/sky_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/sky_on_primary_container</item>
+
+        <item name="colorSecondary">@color/sky_secondary</item>
+        <item name="colorOnSecondary">@color/sky_on_secondary</item>
+        <item name="colorTertiary">@color/sky_tertiary</item>
+        <item name="colorOnTertiary">@color/sky_on_tertiary</item>
+
+        <item name="android:colorBackground">@color/sky_background</item>
+        <item name="colorOnBackground">@color/sky_on_background</item>
+        <item name="colorSurface">@color/sky_surface</item>
+        <item name="colorOnSurface">@color/sky_on_surface</item>
+
+        <item name="colorError">@color/sky_error</item>
+        <item name="colorOnError">@color/sky_on_error</item>
+
+        <item name="android:statusBarColor">@color/sky_surface</item>
+        <item name="android:navigationBarColor">@color/sky_surface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <!-- THEME 2: MARINE -->
+    <style name="Theme.SewaMobil.Marine" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/marine_primary</item>
+        <item name="colorOnPrimary">@color/marine_on_primary</item>
+        <item name="colorPrimaryContainer">@color/marine_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/marine_on_primary_container</item>
+
+        <item name="colorSecondary">@color/marine_secondary</item>
+        <item name="colorOnSecondary">@color/marine_on_secondary</item>
+        <item name="colorTertiary">@color/marine_tertiary</item>
+        <item name="colorOnTertiary">@color/marine_on_tertiary</item>
+
+        <item name="android:colorBackground">@color/marine_background</item>
+        <item name="colorOnBackground">@color/marine_on_background</item>
+        <item name="colorSurface">@color/marine_surface</item>
+        <item name="colorOnSurface">@color/marine_on_surface</item>
+
+        <item name="colorError">@color/marine_error</item>
+        <item name="colorOnError">@color/marine_on_error</item>
+
+        <item name="android:statusBarColor">@color/marine_surface</item>
+        <item name="android:navigationBarColor">@color/marine_surface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <!-- THEME 3: AMOLEd -->
+    <style name="Theme.SewaMobil.Amoled" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/amoled_primary</item>
+        <item name="colorOnPrimary">@color/amoled_on_primary</item>
+        <item name="colorPrimaryContainer">@color/amoled_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/amoled_on_primary_container</item>
+
+        <item name="colorSecondary">@color/amoled_secondary</item>
+        <item name="colorOnSecondary">@color/amoled_on_secondary</item>
+        <item name="colorTertiary">@color/amoled_tertiary</item>
+        <item name="colorOnTertiary">@color/amoled_on_tertiary</item>
+
+        <item name="android:colorBackground">@color/amoled_background</item>
+        <item name="colorOnBackground">@color/amoled_on_background</item>
+        <item name="colorSurface">@color/amoled_surface</item>
+        <item name="colorOnSurface">@color/amoled_on_surface</item>
+
+        <item name="colorError">@color/amoled_error</item>
+        <item name="colorOnError">@color/amoled_on_error</item>
+
+        <item name="android:statusBarColor">@color/amoled_background</item>
+        <item name="android:navigationBarColor">@color/amoled_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+
+</resources>
