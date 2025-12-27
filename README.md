@@ -1,4 +1,4 @@
-UTS Pemrograman Bergerak
+Proyek UAS - Pemrogramman Bergerak
 
 Nama : Wilhelmus Fa'omasi Hia
 NIM : 2205101116P
