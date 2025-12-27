@@ -1,0 +1,55 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <!-- Base (Light Blue) -->
+    <color name="primary_light_blue">#4FC3F7</color>
+    <color name="primary_light_blue_dark">#0288D1</color>
+    <color name="primary_light_blue_soft">#B3E5FC</color>
+
+    <!-- Theme 1: SKY -->
+    <color name="sky_primary">#4FC3F7</color>
+    <color name="sky_on_primary">#0A1B24</color>
+    <color name="sky_primary_container">#B3E5FC</color>
+    <color name="sky_on_primary_container">#06202D</color>
+    <color name="sky_secondary">#00BCD4</color>
+    <color name="sky_on_secondary">#071A1D</color>
+    <color name="sky_tertiary">#7C4DFF</color>
+    <color name="sky_on_tertiary">#0E0A1A</color>
+    <color name="sky_background">#F6FBFF</color>
+    <color name="sky_on_background">#0F1720</color>
+    <color name="sky_surface">#FFFFFF</color>
+    <color name="sky_on_surface">#0F1720</color>
+    <color name="sky_error">#B3261E</color>
+    <color name="sky_on_error">#FFFFFF</color>
+
+    <!-- Theme 2: MARINE -->
+    <color name="marine_primary">#4FC3F7</color>
+    <color name="marine_on_primary">#07131B</color>
+    <color name="marine_primary_container">#CDEFFF</color>
+    <color name="marine_on_primary_container">#061E2B</color>
+    <color name="marine_secondary">#26A69A</color>
+    <color name="marine_on_secondary">#061614</color>
+    <color name="marine_tertiary">#FF7043</color>
+    <color name="marine_on_tertiary">#1B0B06</color>
+    <color name="marine_background">#F3FAFA</color>
+    <color name="marine_on_background">#0E1718</color>
+    <color name="marine_surface">#FFFFFF</color>
+    <color name="marine_on_surface">#0E1718</color>
+    <color name="marine_error">#B3261E</color>
+    <color name="marine_on_error">#FFFFFF</color>
+
+    <!-- Theme 3: AMOLED -->
+    <color name="amoled_primary">#4FC3F7</color>
+    <color name="amoled_on_primary">#001018</color>
+    <color name="amoled_primary_container">#0B2A3A</color>
+    <color name="amoled_on_primary_container">#BFE9FF</color>
+    <color name="amoled_secondary">#00BCD4</color>
+    <color name="amoled_on_secondary">#001316</color>
+    <color name="amoled_tertiary">#7C4DFF</color>
+    <color name="amoled_on_tertiary">#0D061A</color>
+    <color name="amoled_background">#000000</color>
+    <color name="amoled_on_background">#E6EEF5</color>
+    <color name="amoled_surface">#000000</color>
+    <color name="amoled_on_surface">#E6EEF5</color>
+    <color name="amoled_error">#CF6679</color>
+    <color name="amoled_on_error">#0A0004</color>
+</resources>
