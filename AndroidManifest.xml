@@ -1,0 +1,5 @@
+<!-- AndroidManifest.xml (snippet) -->
+<application
+    android:label="@string/app_name"
+    android:theme="@style/Theme.SewaMobil.Sky">
+</application>
